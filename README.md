@@ -50,8 +50,5 @@ Files used:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/Shubhoo22/Titanic_Survival_Prediction.git
-   cd Titanic_Survival_Prediction
+
+
